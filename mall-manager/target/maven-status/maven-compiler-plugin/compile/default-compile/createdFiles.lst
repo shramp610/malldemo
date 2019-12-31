@@ -1,0 +1,12 @@
+com\example\mallmanager\controller\PageController.class
+com\example\mallmanager\mapper\TestMapper.class
+com\example\mallmanager\service\ProductCategoryService.class
+com\example\mallmanager\dto\TestPO.class
+com\example\mallmanager\dto\ProductCategoryPO.class
+com\example\mallmanager\MallManagerApplication.class
+com\example\mallmanager\pojo\UiTree.class
+com\example\mallmanager\configs\MyConfiguration.class
+com\example\mallmanager\controller\ProductCategoryController.class
+com\example\mallmanager\mapper\ProductCategoryMapper.class
+com\example\mallmanager\service\impl\TestDao.class
+com\example\mallmanager\service\impl\ProductCategoryServiceImpl.class
